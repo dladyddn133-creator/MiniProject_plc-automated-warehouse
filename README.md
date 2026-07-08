@@ -184,7 +184,7 @@ flowchart TD
 
 ## 🎬 시연 영상
 
-[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![시연 영상](docs/images/demo_thumbnail.jpg)]([https://youtu.be/YOUR_VIDEO_ID](https://youtu.be/pVxYAb-Cyk4?si=6elyldTH_OAisMqz))
 
 6개 소재 연속 공급 → 금속/비금속 자동 분류 적재 → 번호 지정 출고 → 이물질 감지 비상정지까지 전 과정을 확인할 수 있습니다.
 
