@@ -8,7 +8,7 @@
 ![HMI](https://img.shields.io/badge/HMI-GOT2000-0066CC?style=flat-square)
 
 <!-- 시연 영상 썸네일을 넣고 유튜브 링크를 연결하세요 -->
-[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/YOUR_VIDEO_ID)
+[![시연 영상](docs/images/demo_thumbnail.jpg)](https://youtu.be/pVxYAb-Cyk4?si=6elyldTH_OAisMqz)
 
 ---
 
